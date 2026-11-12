@@ -1,13 +1,19 @@
 {
-  "name": "epam-automation-testing-js-task1",
+  "name": "epam-automation-testing-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "EPAM Automated Testing in JavaScript - Practical Tasks and Homework",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No tests configured yet\""
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "epam",
+    "javascript",
+    "automation-testing",
+    "nodejs",
+    "qa"
+  ],
+  "author": "Alona Maliushchenko",
   "license": "ISC",
   "type": "commonjs"
 }
