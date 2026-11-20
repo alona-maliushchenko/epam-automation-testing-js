@@ -1,0 +1,4 @@
+{
+  "spec": "test/numbers-validator/*.spec.js",
+  "reporter": "mochawesome"
+}
